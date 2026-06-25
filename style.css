@@ -5,3 +5,7 @@
   line-height: 1;
   max-width: 14ch;
 }
+.page-hero {
+  padding-top: clamp(2.5rem, 4vw, 4rem);
+  padding-bottom: clamp(1.75rem, 3vw, 2.5rem);
+}
